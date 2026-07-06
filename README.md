@@ -33,4 +33,4 @@ No contributions received yet. The ledger activates with the first contribution.
 ## Related
 
 - [Funding Model](https://github.com/thecounterweight/platform/blob/main/docs/funding-model.md) — how contributions work
-- [Promissory Note Template](https://github.com/thecounterweight/platform/blob/main/docs/promissory-note-template.md) — the agreement contributors sign
+- [Contribution Agreement Template](https://github.com/thecounterweight/platform/blob/main/docs/contribution-agreement-template.md) — the agreement contributors sign
